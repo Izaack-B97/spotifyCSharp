@@ -1,0 +1,12 @@
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\bin\Debug\spotifyMark1.exe.config
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\bin\Debug\spotifyMark1.exe
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\bin\Debug\spotifyMark1.pdb
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.csprojAssemblyReference.cache
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.Form1.resources
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.Properties.Resources.resources
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.csproj.GenerateResource.cache
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.csproj.CoreCompileInputs.cache
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.exe
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.pdb
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.mainScreen.resources
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.Vistas.Canciones.resources
