@@ -119,6 +119,7 @@
             this.botGuardar.Name = "botGuardar";
             this.botGuardar.Size = new System.Drawing.Size(69, 22);
             this.botGuardar.Text = "Guardar";
+            this.botGuardar.Click += new System.EventHandler(this.botGuardar_Click);
             // 
             // botCancelar
             // 
@@ -127,6 +128,7 @@
             this.botCancelar.Name = "botCancelar";
             this.botCancelar.Size = new System.Drawing.Size(73, 22);
             this.botCancelar.Text = "Cancelar";
+            this.botCancelar.Click += new System.EventHandler(this.botCancelar_Click);
             // 
             // AgregaEditaAlbum
             // 

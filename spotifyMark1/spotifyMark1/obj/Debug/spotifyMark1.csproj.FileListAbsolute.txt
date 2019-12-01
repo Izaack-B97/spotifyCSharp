@@ -2,7 +2,6 @@ C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\bin\Debug
 C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\bin\Debug\spotifyMark1.exe
 C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\bin\Debug\spotifyMark1.pdb
 C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.csprojAssemblyReference.cache
-C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.Form1.resources
 C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.Properties.Resources.resources
 C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.csproj.GenerateResource.cache
 C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.csproj.CoreCompileInputs.cache
@@ -10,3 +9,12 @@ C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug
 C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.pdb
 C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.mainScreen.resources
 C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.Vistas.Canciones.resources
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.Vistas.AgregaEditaAlbum.resources
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.Vistas.AgregaEditaArtista.resources
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.Vistas.AgregaEditaCancion.resources
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.Vistas.AgregaEditaGenero.resources
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.Vistas.AgregaEditaUsuario.resources
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.Vistas.Albumes.resources
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.Vistas.Artistas.resources
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.Vistas.Generos.resources
+C:\Users\Fam Varela\Desktop\9no semestre\tap\spotifyMark1\spotifyMark1\obj\Debug\spotifyMark1.Vistas.Usuarios.resources

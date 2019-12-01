@@ -46,11 +46,41 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="DBConexion.cs" />
+    <Compile Include="Modelos\Album.cs" />
+    <Compile Include="Modelos\Artista.cs" />
+    <Compile Include="Modelos\Cancion.cs" />
+    <Compile Include="Modelos\Genero.cs" />
+    <Compile Include="Modelos\Usuario.cs" />
+    <Compile Include="Vistas\AgregaEditaAlbum.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Vistas\AgregaEditaAlbum.Designer.cs">
+      <DependentUpon>AgregaEditaAlbum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\AgregaEditaArtista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\AgregaEditaArtista.Designer.cs">
+      <DependentUpon>AgregaEditaArtista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\AgregaEditaCancion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\AgregaEditaCancion.Designer.cs">
+      <DependentUpon>AgregaEditaCancion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\AgregaEditaGenero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\AgregaEditaGenero.Designer.cs">
+      <DependentUpon>AgregaEditaGenero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\AgregaEditaUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\AgregaEditaUsuario.Designer.cs">
+      <DependentUpon>AgregaEditaUsuario.cs</DependentUpon>
     </Compile>
     <Compile Include="Vistas\Albumes.cs">
       <SubType>Form</SubType>
@@ -90,11 +120,32 @@
     <Compile Include="Vistas\Usuarios.Designer.cs">
       <DependentUpon>Usuarios.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Vistas\AgregaEditaAlbum.resx">
+      <DependentUpon>AgregaEditaAlbum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\AgregaEditaArtista.resx">
+      <DependentUpon>AgregaEditaArtista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\AgregaEditaCancion.resx">
+      <DependentUpon>AgregaEditaCancion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\AgregaEditaGenero.resx">
+      <DependentUpon>AgregaEditaGenero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\AgregaEditaUsuario.resx">
+      <DependentUpon>AgregaEditaUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Albumes.resx">
+      <DependentUpon>Albumes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Artistas.resx">
+      <DependentUpon>Artistas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Vistas\Canciones.resx">
       <DependentUpon>Canciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Generos.resx">
+      <DependentUpon>Generos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Vistas\mainScreen.resx">
       <DependentUpon>mainScreen.cs</DependentUpon>
@@ -108,6 +159,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Vistas\Usuarios.resx">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

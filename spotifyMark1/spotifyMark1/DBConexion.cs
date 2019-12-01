@@ -16,9 +16,9 @@ namespace spotifyMark1
 
         public DBConexion() // Constructor crea la Conexión
         {
-            miConexion = "Data Source=148.225.60.117; Initial Catalog=DS3;"
-                            + " User Id=ds3usuario; Password=12345678;";
-            //miConexion = "Data Source=localhost; Initial Catalog=NombreBaseDatos;"
+            //miConexion = "Data Source=148.225.60.117; Initial Catalog=DS3;"
+            //                + " User Id=ds3usuario; Password=12345678;";
+            miConexion = "Data Source=localhost; Initial Catalog=master;";
             //                + " User Id=usuarioX; Password=contraseñaX;";
 
             sqlConexion = new SqlConnection(miConexion);

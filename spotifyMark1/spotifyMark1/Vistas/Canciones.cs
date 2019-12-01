@@ -21,5 +21,17 @@ namespace spotifyMark1.Vistas
         {
             this.Close();
         }
+
+        private void btnNuevo_Click(object sender, EventArgs e)
+        {
+            Vistas.AgregaEditaCancion ventanaAgregaEditaCancion = new Vistas.AgregaEditaCancion();
+            ventanaAgregaEditaCancion.ShowDialog();
+        }
+
+        private void btnEditar_Click(object sender, EventArgs e)
+        {
+            Vistas.AgregaEditaCancion ventanaAgregaEditaCancion = new Vistas.AgregaEditaCancion();
+            ventanaAgregaEditaCancion.ShowDialog();
+        }
     }
 }

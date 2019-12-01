@@ -16,5 +16,15 @@ namespace spotifyMark1.Vistas
         {
             InitializeComponent();
         }
+
+        private void botGuardar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void botCancelar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
